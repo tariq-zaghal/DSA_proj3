@@ -1,0 +1,3 @@
+Equation No.1: 1+2+3 -> valid
++ + 1 2 3
+6
